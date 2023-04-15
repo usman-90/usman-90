@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://react-bootstrap.github.io/logo.svg" width="48">
   <img src="https://img.icons8.com/color/48/000000/redis.png"/>
+	<img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="48" >
+
